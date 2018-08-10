@@ -1,0 +1,18 @@
+{
+  "name": "nodelyze",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "all-the-packages": "^1.2.0",
+    "async": "^2.6.1",
+    "mkdirp": "^0.5.1",
+    "node-json-minify": "^1.0.0",
+    "request": "^2.87.0"
+  }
+}
